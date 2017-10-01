@@ -5,7 +5,7 @@ import org.apache.commons.cli.ParseException;
 
 public class Main
 {
-    public static final String DEFAULT_OUTPUT_FORMAT = "binary";
+    public static final String DEFAULT_OUTPUT_FORMAT = "hex";
 
     /**
      * @param args the command line arguments
